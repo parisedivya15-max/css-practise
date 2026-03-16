@@ -1,0 +1,12 @@
+.h1{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    
+}
+.h2{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    transition: scale 0.5s;
+}
